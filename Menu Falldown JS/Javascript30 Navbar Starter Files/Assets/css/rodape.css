@@ -1,0 +1,14 @@
+.rodape__descricao{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.rodape__container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap ;
+}
+
+.rodape__img{
+    padding: .4rem;
+}
